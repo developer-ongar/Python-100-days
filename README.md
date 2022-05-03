@@ -1,8 +1,9 @@
+<h1 align="center"> 
 100 Days of Python
+</h1>
+<h5 align="center">
 Starting from : May 3, 2022
-
-I pledge to complete this 100 days of coding challenge.
-
+</h5>
 
 ## Contents
 
